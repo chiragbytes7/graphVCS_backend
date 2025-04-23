@@ -1,0 +1,24 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder (if any)
+venv/
+env/
+
+# Local environment variables
+.env
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Optional: Add any other temporary files or artifacts
